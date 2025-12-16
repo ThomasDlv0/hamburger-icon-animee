@@ -2,4 +2,4 @@
 
 site -> [exemple](https://thomasdlv0.github.io/hamburger-icon-animee/)
 
-(./assets/img/animeBurger.gif "hamburger icon animée")
+![Texte alternatif](./assets/img/animeBurger.gif "Titre de l'image")
